@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		048C727C2446D9D000A8843C /* dynamic list.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dynamic list.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		048C727C2446D9D000A8843C /* Image Picker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Image Picker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		048C727F2446D9D000A8843C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		048C72812446D9D000A8843C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		048C72832446D9D000A8843C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		048C72732446D9CF00A8843C = {
 			isa = PBXGroup;
 			children = (
-				048C727E2446D9D000A8843C /* dynamic list */,
+				048C727E2446D9D000A8843C /* Image Picker */,
 				048C727D2446D9D000A8843C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		048C727D2446D9D000A8843C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				048C727C2446D9D000A8843C /* dynamic list.app */,
+				048C727C2446D9D000A8843C /* Image Picker.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		048C727E2446D9D000A8843C /* dynamic list */ = {
+		048C727E2446D9D000A8843C /* Image Picker */ = {
 			isa = PBXGroup;
 			children = (
 				048C727F2446D9D000A8843C /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				048C728D2446D9D700A8843C /* Info.plist */,
 				048C72872446D9D700A8843C /* Preview Content */,
 			);
-			path = "dynamic list";
+			path = "Image Picker";
 			sourceTree = "<group>";
 		};
 		048C72872446D9D700A8843C /* Preview Content */ = {
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		048C727B2446D9D000A8843C /* dynamic list */ = {
+		048C727B2446D9D000A8843C /* Image Picker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 048C72902446D9D700A8843C /* Build configuration list for PBXNativeTarget "dynamic list" */;
+			buildConfigurationList = 048C72902446D9D700A8843C /* Build configuration list for PBXNativeTarget "Image Picker" */;
 			buildPhases = (
 				048C72782446D9D000A8843C /* Sources */,
 				048C72792446D9D000A8843C /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = "dynamic list";
+			name = "Image Picker";
 			productName = "dynamic list";
-			productReference = 048C727C2446D9D000A8843C /* dynamic list.app */;
+			productReference = 048C727C2446D9D000A8843C /* Image Picker.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 048C72772446D9CF00A8843C /* Build configuration list for PBXProject "dynamic list" */;
+			buildConfigurationList = 048C72772446D9CF00A8843C /* Build configuration list for PBXProject "Image Picker" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				048C727B2446D9D000A8843C /* dynamic list */,
+				048C727B2446D9D000A8843C /* Image Picker */,
 			);
 		};
 /* End PBXProject section */
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		048C72772446D9CF00A8843C /* Build configuration list for PBXProject "dynamic list" */ = {
+		048C72772446D9CF00A8843C /* Build configuration list for PBXProject "Image Picker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				048C728E2446D9D700A8843C /* Debug */,
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		048C72902446D9D700A8843C /* Build configuration list for PBXNativeTarget "dynamic list" */ = {
+		048C72902446D9D700A8843C /* Build configuration list for PBXNativeTarget "Image Picker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				048C72912446D9D700A8843C /* Debug */,
